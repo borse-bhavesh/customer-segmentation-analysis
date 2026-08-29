@@ -1,0 +1,5 @@
+Cluster,AnnualIncome_INR,Orders,AverageOrderValue_INR,TotalSpend_INR,Recency_Days,WebsiteVisits,AppUsage,DiscountUsage,CustomerCount,CustomerPercentage
+0,64799.2,10.11,2089.26,20769.5,47.97,11.54,13.05,7.55,125,25.0
+1,51790.4,12.78,2048.98,25786.44,23.46,11.73,18.4,5.95,125,25.0
+2,61083.33,11.53,1136.97,12914.1,29.65,10.51,15.35,7.22,144,28.8
+3,93211.32,17.48,2165.6,37044.99,35.55,13.54,17.79,7.33,106,21.2
